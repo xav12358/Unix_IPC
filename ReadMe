@@ -1,0 +1,4 @@
+Assignment : Write a program which performs interprocess communication using the concept of message queue.
+
+Description :
+IPC between two program. The  program send structure data up to 65ko into the IPC
